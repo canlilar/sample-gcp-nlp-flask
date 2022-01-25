@@ -35,6 +35,8 @@ Once the notebook has been provisioned, click 'Open JupyterLab'. A JupyterLab wi
 
 ## Getting the sample code
 
+Enable the [Cloud Source Repositories API](https://console.cloud.google.com/flows/enableapi?apiid=sourcerepo.googleapis.com&redirect=https://cloud.google.com/source-repositories/docs/quickstart&_ga=2.183937445.2048159139.1643037343-1135681951.1638371582)
+
 In the JupyterLab window that opens, click 'Git' in the top menu and clone the repository (replace with your clone/fork):
 
     https://github.com/Jiaxen/sample-gcp-nlp-flask.git
